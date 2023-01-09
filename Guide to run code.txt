@@ -1,0 +1,7 @@
+Hi I am Sai Vishnu Ramakrishnan, 
+
+My student id is 202199052.
+
+To run the code, make sure the imput image is in the same project directory. 
+If the input image is in different directory, edit the directory path in the code.
+Run the "vehicle number plate detection.py" python file to execute the code and the final output will be displayed in the console.
